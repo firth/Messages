@@ -1,3 +1,6 @@
 I'm very sorry! Our data feed is temporarily down. We're aware of the issue, and we're working hard to get it back up as soon as possible.
 
+
+We have enabled a temporary backup data source.
+
 You can email us at support@merakservices.com.
