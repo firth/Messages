@@ -1,6 +1,7 @@
-I'm very sorry! Our data feed is temporarily down. We're aware of the issue, and we're working hard to get it back up as soon as possible.
+April 2, 2015:
 
+We have experienced a server failure. This should be resolved today.
 
-We have enabled a temporary backup data source.
+We have enabled a temporary backup data source. Most services should be available now, with the rest coming back online later today.
 
 You can email us at support@merakservices.com.
