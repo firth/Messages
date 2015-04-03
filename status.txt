@@ -1,8 +1,1 @@
-April 2, 2015:
 
-We have experienced a server failure. This should be resolved today.
-
-We have enabled a temporary backup data source. Most services should be available now, with the rest coming back online later today.
-
-
-We are committed to supporting this app and continuously adding new features. If you have any suggestions, or want more information, you can email us at support@merakservices.com.
