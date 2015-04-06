@@ -1,4 +1,6 @@
-April 5, 2015:
+Service Advisory (April 5):
+
+Some data products may be temporarily unavailable.
 
 Ordered some parts to fix our server, which are slightly delayed due to Easter. Working on this as quickly as I can. This should be fixed better than ever by Tuesday.
 
