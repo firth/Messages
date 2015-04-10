@@ -6,7 +6,7 @@ A new version was submitted to Microsoft for approval on Wednesday, April 8th. O
 
 The new version should be approved shortly, but I don't have an exact time to give you.
 
-If you open the app and are only seeing a blank map, right click anywhere. You'll see some of the hidden UI appear. The icon third from the right opens the chat window.
+If you open the app and are only seeing a blank map, right click anywhere (or swipe up from the bottom on your tablet). You'll see some of the hidden UI appear. The icon third from the right opens the chat window.
 
 Robert Firth
 support@merakservices.com
