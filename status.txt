@@ -2,7 +2,7 @@ Status Message (April 10):
 
 If you can see this message, you are on an old (broken) version of Weather Radar Pro.
 
-A new version has been submitted to Microsoft for approval. Once it gets approved, your copy of Weather Radar Pro should be automatically updated and this message should go away.
+A new version was submitted to Microsoft for approval on Wednesday, April 8th. Once it gets approved, your copy of Weather Radar Pro should be automatically updated and this message should go away.
 
 The new version should be approved shortly, but I don't have an exact time to give you.
 
