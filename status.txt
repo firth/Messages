@@ -1,6 +1,6 @@
 Status Message (April 9):
 
-If you can see this message, you are on an old (broken) version of Weather Radar Pro. This version only works on Windows 10. On Windows 8 and 8.1, it will just show a blank map of the world.
+If you can see this message, you are on an old (broken) version of Weather Radar Pro.
 
 A new version has been submitted to Microsoft for approval. Once it gets approved, your copy of Weather Radar Pro should be automatically updated and this message should go away.
 
