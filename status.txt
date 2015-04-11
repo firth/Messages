@@ -2,11 +2,13 @@ Status Message (April 10):
 
 If you can see this message, you are on an old (broken) version of Weather Radar Pro.
 
-A new version was submitted to Microsoft for approval on Wednesday, April 8th. Once it gets approved, your copy of Weather Radar Pro should be automatically updated and this message should go away.
+To force the Windows Store to check for the update:
 
-The new version should be approved shortly, but I don't have an exact time to give you.
-
-If you open the app and are only seeing a blank map, right click anywhere (or swipe up from the bottom on your tablet). You'll see some of the hidden UI appear. The icon third from the right opens the chat window, which you can read for more details.
+1. Open the Windows Store Metro App
+2. Swipe in from the right side of the screen to open the Charms Bar. If you are using a mouse you can go to the hot corner at the top or bottom of the right side of your screen. You can also use the keyboard shortcut Windows C.
+3. Tap or select the Settings menu item on the Charms Bar (bottom option).
+4. Tap or select App Updates from the list of menu items on the Windows Store Settings Bar.
+5. On the App Updates screen just tap or select Check for updates.
 
 Robert Firth
 support@merakservices.com
