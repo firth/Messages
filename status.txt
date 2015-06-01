@@ -1,14 +1,1 @@
-Status Message (April 10):
 
-If you can see this message, you are on an old (broken) version of Weather Radar Pro.
-
-To force the Windows Store to check for the update:
-
-1. Open the Windows Store Metro App
-2. Swipe in from the right side of the screen to open the Charms Bar. If you are using a mouse you can go to the hot corner at the top or bottom of the right side of your screen. You can also use the keyboard shortcut Windows C.
-3. Tap or select the Settings menu item on the Charms Bar (bottom option).
-4. Tap or select App Updates from the list of menu items on the Windows Store Settings Bar.
-5. On the App Updates screen just tap or select Check for updates.
-
-Robert Firth
-support@merakservices.com
