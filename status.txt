@@ -1,6 +1,6 @@
-August 12, 2015 at 5PM CDT:
+August 12, 2015 at 6:45PM CDT:
 
-This is a temporary issue. We're working on restoring service. A temporary backup has been enabled.
+Service is restored. Just waiting a few minutes for radar images to backfill.
 
 I'm very sorry for the inconvienence. I'm always trying to improve this app, and sometimes I accidentally break things.
 
