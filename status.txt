@@ -2,6 +2,7 @@ May 9, 2016 at 9:45PM PST:
 
 I'm tracking an issue with the radar at the moment. I'll work on a fix and get it out to you guys as soon as possible.
 
-In the meantime, I have enabled the emergency backup radar data.
+In the meantime, I have enabled the emergency backup radar data. I'm very sorry for the inconvienience!
 
 Robert Firth
+support@merakservices.com
