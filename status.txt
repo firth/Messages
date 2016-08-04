@@ -1,8 +1,6 @@
-August 4, 2016 at 5:27PM:
+August 4, 2016 at 6:00PM:
 
-We're temporarility down for a few minutes to upgrade our server software.
-
-A backup has been enabled.
+We're upgrading our servers. A temporary backup has been enabled.
 
 Robert Firth
 support@merakservices.com
