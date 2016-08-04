@@ -2,5 +2,7 @@ August 4, 2016 at 5:27PM:
 
 We're temporarility down for a few minutes to upgrade our server software.
 
+A backup has been enabled.
+
 Robert Firth
 support@merakservices.com
