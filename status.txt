@@ -1,6 +1,6 @@
-August 15, 2016:
+August 15, 2016 at 2:49PM CDT:
 
-Due to historic flooding, Baton Rouge is underwater. Our building has about 4 feet of water in it. If you're interested in tracking this, look up the Comite River at Joor Rd. The river has now crested, but the water is receding very very slowly.
+Due to historic flooding, Baton Rouge is underwater. Our building has about 4 feet of water in it (down from 7.5 feet). If you're interested in tracking this, look up the Comite River at Joor Rd. The river has now crested, but the water is receding very very slowly.
 
 I have enabled a temporary backup. This should restore most services. I'm sorry for the disruption!
 
