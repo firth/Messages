@@ -1,6 +1,8 @@
 September 18, 2019 at 7:30PM CST:
 
-We are doing maintenance. A backup has been enabled.
+We are doing maintenance due to a failed hard drive. A backup has been enabled.
+
+Full services should be restored by 8PM CST.
 
 Robert Firth
 support@merakservices.com
