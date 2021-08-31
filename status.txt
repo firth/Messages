@@ -1,4 +1,4 @@
-August 30, 2021:
+August 31, 2021:
 
 Due to an outage caused by Hurricane Ida, our main servers are down. A backup has been enabled, but some services may be temporarily unavailable.
 
