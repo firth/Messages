@@ -1,6 +1,8 @@
-August 31, 2021:
+September 2, 2021:
 
 Due to an outage caused by Hurricane Ida, our main servers are down. A backup has been enabled, but some services may be temporarily unavailable.
+
+Service is expected to be restored by Wednesday, September 8th.
 
 Robert Firth
 support@merakservices.com
